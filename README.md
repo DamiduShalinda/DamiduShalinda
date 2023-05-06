@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DamiduShalinda
 - 👀 I’m interested in software developing using MERN Stack
-- 🌱 I’m currently learning @ univercity of kelaniya
+- 🌱 I’m currently learning @ univerSity of kelaniya
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me (shalindadamidu@gmail.com)
 
