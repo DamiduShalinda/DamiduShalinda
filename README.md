@@ -1,8 +1,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DamiduShalinda&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://github.com/DamiduShalinda/DamiduShalinda/blob/output/github-contribution-grid-snake.svg)
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
